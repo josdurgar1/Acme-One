@@ -1,3 +1,6 @@
+INFO [acme.Launcher] Starting Launcher using Java 1.8.0_281 on DESKTOP-BALNCBG with PID 13340 (C:\Users\siadan\Workspace-21.1\Projects\Acme-One\target\classes started by siadan in C:\Users\siadan\Workspace-21.1\Projects\Acme-One)
+INFO [acme.Launcher] The following profiles are active: development,populator
+INFO [acme.Launcher] Started Launcher in 6.863 seconds (JVM running for 7.459)
 INFO [acme.Launcher] Starting Launcher using Java 1.8.0_181 on DESKTOP-0MU4E1F with PID 9172 (C:\Users\danic\git\Acme-One\target\classes started by danic in C:\Users\danic\git\Acme-One)
 INFO [acme.Launcher] The following profiles are active: development,populator
 INFO [acme.Launcher] Started Launcher in 4.52 seconds (JVM running for 4.93)
