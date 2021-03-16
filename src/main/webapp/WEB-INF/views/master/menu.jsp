@@ -20,7 +20,8 @@
 	<acme:menu-left>
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link" action="http://www.example.com/"/>
-			<acme:menu-suboption code="master.menu.anonymous.favourite-link-duran" action="https://hipertextual.com/"/>
+      <acme:menu-suboption code="master.menu.anonymous.favourite-link-duran" action="https://hipertextual.com/"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link-javpermar4" action="https://www.youtube.com/watch?v=dQw4w9WgXcQ"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
